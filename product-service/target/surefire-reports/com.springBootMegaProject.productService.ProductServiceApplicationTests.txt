@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.springBootMegaProject.productService.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 9.568 s <<< FAILURE! - in com.springBootMegaProject.productService.ProductServiceApplicationTests
+shouldGetProduct  Time elapsed: 0.817 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <9>
+	at com.springBootMegaProject.productService.ProductServiceApplicationTests.shouldGetProduct(ProductServiceApplicationTests.java:66)
+
+shouldCreateProduct  Time elapsed: 0.062 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <10>
+	at com.springBootMegaProject.productService.ProductServiceApplicationTests.shouldCreateProduct(ProductServiceApplicationTests.java:51)
+

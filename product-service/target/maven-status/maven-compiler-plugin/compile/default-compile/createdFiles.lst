@@ -1,0 +1,10 @@
+com\springBootMegaProject\productService\dto\ProductRequest.class
+com\springBootMegaProject\productService\dto\ProductRequest$ProductRequestBuilder.class
+com\springBootMegaProject\productService\ProductServiceApplication.class
+com\springBootMegaProject\productService\controllers\ProductController.class
+com\springBootMegaProject\productService\dto\ProductResponse.class
+com\springBootMegaProject\productService\dto\ProductResponse$ProductResponseBuilder.class
+com\springBootMegaProject\productService\models\Products$ProductsBuilder.class
+com\springBootMegaProject\productService\services\ProductService.class
+com\springBootMegaProject\productService\models\Products.class
+com\springBootMegaProject\productService\repositories\ProductRepository.class
